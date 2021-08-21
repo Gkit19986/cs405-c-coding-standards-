@@ -1,0 +1,3 @@
+# cs405
+This course was a great representation of how critical it is to implement secure coding standards. Throughout the course, I was able to correct bufferflow errors. I was able to identify under and overflow vulnerabilities. I was also able to implement static testing to ensure the code is executing the expected output.
+During project 1 and presentation. I incorporated secure coding practices and 10 principles. I was introduced to mitigation factors and cost , threat levels if security is ignored. I was also introduced to zero trust methodology and the importance to grant access to the appropriate users.
